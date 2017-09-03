@@ -23,6 +23,8 @@ If you use this code, please cite:
   url       = {http://aclweb.org/anthology/P17-2070}
 }
 ```
+## TODO
+- Clean and push the inference scripts 
 
 ## Acknowledgments
 
