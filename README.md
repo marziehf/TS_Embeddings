@@ -5,6 +5,7 @@ This repository includes the codes and scripts for training topic-sensitive word
 "Learning Topic-Sensitive Word Representations" 
 Fadaee, Marzieh, Arianna Bisazza, and Christof Monz. ACL2017.
 ```
+![alt](https://user-images.githubusercontent.com/8711401/30002703-a936b914-90b0-11e7-94ea-209901e9bc2c.png)
 
 ## Citation
 
