@@ -1,10 +1,7 @@
 # Topic-Sensitive Word Representations
 
-This repository includes the codes and scripts for training topic-sensitive word embeddings proposed in our paper:
-```
-"Learning Topic-Sensitive Word Representations" 
-Fadaee, Marzieh, Arianna Bisazza, and Christof Monz. ACL2017.
-```
+This repository includes the codes and scripts for training topic-sensitive word embeddings proposed in [our paper](https://www.aclweb.org/anthology/P/P17/P17-2070.pdf).
+
 ![alt](https://user-images.githubusercontent.com/8711401/30002703-a936b914-90b0-11e7-94ea-209901e9bc2c.png)
 
 ## Citation
