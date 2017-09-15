@@ -21,7 +21,7 @@ If you use this code, please cite:
 }
 ```
 ## TODO
-- Clean and push the inference scripts 
+- Clean and push the inference script 
 
 ## Acknowledgments
 
