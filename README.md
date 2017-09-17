@@ -23,7 +23,7 @@ If you use this code, please cite:
 
 ## Usage
 
-### Before doing anything: Topic Modeling 
+### Step 0: Topic Modeling 
 
 You'll need to learn the abstract *topics* in a collection of documents. To make it faster, this collection can be a sampled subset of the bigger collection that you'll use for training the embeddings.
 
